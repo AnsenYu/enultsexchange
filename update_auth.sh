@@ -1,0 +1,1 @@
+enucli set account permission testexenults active '{"threshold": 1,"keys": [{"key":"ENU7kUb6QCQtF4veXH5zguf8fUSmvKXTJHeqZqLY1ZamETHgdEX1t", "weight":1}],"accounts": [{"permission":{"actor":"testexenults","permission":"enumivo.code"},"weight":1}]}' owner -p testexenults@active
